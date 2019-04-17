@@ -1,0 +1,29 @@
+h1 {
+  color: black;
+  text-align: center;
+}
+h2 {
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+  color: #2F4F4F;
+  line-height: inherit;
+}
+ul {
+  line-height: 40px;
+  font-style: oblique;
+}
+body{
+  background: #FFEBCD;
+}
+strong{
+  font-weight: bold;
+  font-style: italic;
+}
+em{
+  font-weight: bold;
+  font-style: oblique;
+}
